@@ -1,0 +1,1 @@
+function getYear(){var e=(new Date).getFullYear();document.querySelector("#displayYear").innerHTML=e}getYear(),$(".owl-carousel").owlCarousel({loop:!0,margin:10,nav:!0,autoplay:!0,autoplayHoverPause:!0,responsive:{0:{items:1},600:{items:3},1000:{items:6}}});
